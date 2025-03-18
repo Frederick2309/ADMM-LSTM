@@ -1,0 +1,1 @@
+Please notice that the convention used for wind direction is the so-called "wind vector azimuth", which is opposite to the traditional meteorological convention

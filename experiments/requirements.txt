@@ -1,0 +1,13 @@
+torch~=2.5.1
+matplotlib~=3.10.0
+numpy~=2.2.0
+opencv-python~=4.10.0.84
+av~=14.0.1
+torchvision~=0.20.1
+psutil~=7.0.0
+tqdm~=4.67.1
+scipy~=1.14.1
+wfdb~=4.2.0
+xlrd~=2.0.1
+scikit-learn~=1.6.0
+yfinance~=0.2.51
