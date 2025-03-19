@@ -24,7 +24,7 @@ After installing necessary dependencies, follow the next steps to run our demo:
 
 Or you can refer to the following GIF guidance:
 
-![GIF Guidance](assets/guidance.gif)
+![GIF Guidance](experiments/assets/guidance.gif)
 
 The training and validation loss is likely to be as follows.
 
@@ -75,6 +75,7 @@ The following datasets are defined in `dataset.py` and available for use. Use `-
 |  GEFCOM2012  | [Global Energy Forecasting Competition 2012](https://www.sciencedirect.com/science/article/pii/S0169207013000745) |
 | YahooFinance |       [Yahoo Finance Dataset](https://finance.yahoo.com/)<br>[`yfinance` Library (PyPI)](https://pypi.org/)       |
 |     HAR      |   [HAR Official Website](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)    |
+|     DNA1     |   [Promoter Gene Sequence](https://archive.ics.uci.edu/dataset/67/molecular+biology+promoter+gene+sequences)      |
 
 ## Parameter specifications
 
