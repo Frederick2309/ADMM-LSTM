@@ -30,11 +30,11 @@ The training and validation loss is likely to be as follows.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <figure>
-        <img src="assets/ADMMTrainingLoss.png" alt="Training Loss" width="3000">
+        <img src="experiments/assets/ADMMTrainingLoss.png" alt="Training Loss" width="3000">
         <figcaption>Training Loss</figcaption>
     </figure>
     <figure>
-        <img src="assets/ADMMValidationLoss.png" alt="Validation Loss" width="3000">
+        <img src="experiments/assets/ADMMValidationLoss.png" alt="Validation Loss" width="3000">
         <figcaption>Validation Loss</figcaption>
     </figure>
 </div>
