@@ -41,9 +41,9 @@ The training and validation loss is likely to be as follows.
 
 > The above pictures are for reference only and do not represent the real effect of our work. To see the real effect, please refer to our paper.
 
-## Command Line options
+## Command Line Options
 
-Our demo program `demo.py` offers the following 5 command line options for controlling the training process.
+Our demo program `demo.py` offers the following command line options for controlling the training process.
 
 |   Option    | Alias |           Explanation            | Default Value |        Type        |
 |:-----------:|:-----:|:--------------------------------:|:-------------:|:------------------:|
