@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the repository where we implement some toy simulations for our paper *An ADMM-Based Optimization Strategy with Global Convergence for LSTM*. The project is implemented with Python 3.10, Anaconda 23.9.0. A detailed `requirements.txt` file is included in the top-level directory. 
+This is the repository where we implement some toy simulations for our paper *Globally Convergent ADMM-Based Optimization for LSTM Networks: Fast and Loose Variants*. The project is implemented with Python 3.10, Anaconda 23.9.0. A detailed `requirements.txt` file is included in the top-level directory. 
 
 ## Replication Guidance
 
